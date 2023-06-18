@@ -14,6 +14,7 @@
 
 ## Server 구동
 
+- nodejs 12 version으로 하니 구동 가능
 - https://github.com/joshua1988/vue-til-server.git
 
 ```
